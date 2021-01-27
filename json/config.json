@@ -1,0 +1,8 @@
+{
+    "config": {
+        "Author":"Daniella Sternalski-Gobey",
+        "Files": {
+            "CardsLocation":"json/cards.json"
+        }
+    }
+}

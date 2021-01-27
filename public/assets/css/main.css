@@ -1,0 +1,106 @@
+body{
+    color:#787878;
+    display:inline-block;
+    font-family: "Trebuchet MS", Arial;
+    font-size: 16px;
+}
+h3 {
+    color:#00009f;
+    font-size: 20px;
+    margin:10px 0;
+}
+section {
+    border: 1px solid #ededed;
+    float: left;
+    max-width: 291px;
+    width: 100%;
+}
+section img {
+    max-width: 100%;
+}
+.content, .price_from {
+    padding:10px;
+}
+#stars {
+    height:auto;
+    width:62px;
+}
+.reviews {
+    color:#439dd4;
+}
+#average {
+    background-color:#439dd4;
+    color: #ffffff;
+    padding: 5px 7px;
+    margin-right: 10px;
+}
+.icon svg {
+    position: relative;
+    margin-right:5px;
+    top: 5px;
+    width:20px;
+}
+hr {
+    border:none;
+    border-bottom: 1px solid #ededed;
+}
+#includes {
+    list-style: none;
+    padding: 0;
+}
+#includes li {
+    margin:0 0 10px;
+}
+#includes li:nth-child(2) svg {
+    border: 1px solid #787878;
+    border-radius: 100%;
+    padding: 0px 4px;
+    width: 15px;
+}
+.price_from {
+    background-color: #f6f5f5;
+    border-top: 1px dashed #ededed;
+    box-sizing: border-box;
+    float:left;
+    width: 100%;
+}
+#from {
+    color:#ee6700;
+    font-size:24px;
+}
+.price_from p {
+    box-sizing: border-box;
+    clear: none;
+    float: left;
+    width: 50%;
+}
+.price_from p a {
+    background: #ef7f32;
+    box-sizing: border-box;
+    color: #ffffff;
+    float:right;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 80%;
+}
+.price_from p a:hover {
+    text-decoration: underline;
+}
+@media screen and (max-width:295px) {
+    .drop_line {
+        margin: 10px 0 0;
+        display: inline-block;
+    }
+    .price_from p {
+        margin: 0 0 10px;
+        padding: 0;
+        width: 100%;
+    }
+    .price_from p:last-child {
+        margin-bottom:0;
+    }
+    .price_from p a {
+        width:100%;
+    }
+}

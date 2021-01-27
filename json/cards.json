@@ -1,0 +1,29 @@
+{
+    "Suspects": [
+        "Colonel Mustard",
+        "Professor Plum",
+        "Reverend Green",
+        "Mrs Peacock",
+        "Miss Scarlett",
+        "Mrs White"
+    ],
+    "Weapons": [
+        "Dagger",
+        "Candlestick",
+        "Revolver",
+        "Rope",
+        "Lead Pipe",
+        "Spanner"
+    ],
+    "Rooms": [
+        "Hall",
+        "Lounge",
+        "Dining Room",
+        "Kitchen",
+        "Ball Room",
+        "Conservatory",
+        "Billard Room",
+        "Library",
+        "Study"
+    ]
+}
