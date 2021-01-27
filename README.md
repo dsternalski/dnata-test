@@ -1,1 +1,2 @@
 "# dnata-test" 
+I built this in a node js, so when you view it, please make sure that you do the npm install to install all of the relevant packages. It is also running on a localhost port of 5000. You will also need to install and run the json-server on port 3000.
